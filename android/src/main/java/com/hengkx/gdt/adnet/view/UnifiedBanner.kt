@@ -6,7 +6,7 @@ import android.util.AttributeSet
 import android.util.Log
 import android.view.View
 import android.widget.FrameLayout
-import com.hengkx.gdt.adnet.adnet.R
+import com.hengkx.gdt.adnet.R
 import com.qq.e.ads.banner2.UnifiedBannerADListener
 import com.qq.e.ads.banner2.UnifiedBannerView
 

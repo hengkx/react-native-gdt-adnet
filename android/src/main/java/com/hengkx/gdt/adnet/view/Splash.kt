@@ -9,7 +9,7 @@ import android.widget.RelativeLayout
 import android.widget.TextView
 import com.qq.e.ads.splash.SplashAD
 import com.qq.e.ads.splash.SplashADListener
-import com.hengkx.gdt.adnet.adnet.R
+import com.hengkx.gdt.adnet.R
 import java.util.*
 import kotlin.collections.HashMap
 
