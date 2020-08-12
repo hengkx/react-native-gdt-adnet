@@ -1,6 +1,6 @@
 /* eslint-disable react-native/no-inline-styles */
 import * as React from 'react';
-import { StyleSheet, View, Text } from 'react-native';
+import { StyleSheet, View } from 'react-native';
 import GdtAd, { GDTUnifiedBanner, GDTSplash } from 'react-native-gdt-adnet';
 
 export default function App() {
@@ -17,7 +17,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      {/* {init && <GDTUnifiedBanner posId="4080052898050840" />} */}
+      {init && <GDTUnifiedBanner posId="4080052898050840" />}
       {init && (
         <GDTSplash
           style={{ flex: 1 }}

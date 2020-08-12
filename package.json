@@ -1,6 +1,6 @@
 {
   "name": "react-native-gdt-adnet",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "腾讯广点通",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",

@@ -8,7 +8,7 @@ buildscript {
   }
 
   dependencies {
-    classpath 'com.android.tools.build:gradle:4.0.0'
+    classpath 'com.android.tools.build:gradle:3.6.0'
     // noinspection DifferentKotlinGradleVersion
     classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
   }
@@ -118,9 +118,6 @@ repositories {
                     "Ensure you have you installed React Native as a dependency in your project and try again."
     )
   }
-  // flatDir {
-  //   dirs 'libs'
-  // }
 }
 
 def kotlin_version = getExtOrDefault('kotlinVersion')
